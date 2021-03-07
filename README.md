@@ -1,1 +1,3 @@
-# cnc_wire_bend
+# cnc wire bend
+
+The steppermotor as 200 steps per revelution. 
